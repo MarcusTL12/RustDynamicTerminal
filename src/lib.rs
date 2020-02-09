@@ -1,6 +1,9 @@
 pub mod color;
 pub mod linereset;
 
+pub fn teststuff() {
+    println!("Heisann!");
+}
 
 #[cfg(test)]
 mod tests {
